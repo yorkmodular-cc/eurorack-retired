@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/Simon Ward/ownCloud/eagle/xo106-rev3/xo106.sch at 23/07/2017 20:44
+
+Qty Value               Device              Package         Parts                  Description                                       
+1   0.1u                C-EU050-025X075     C050-025X075    C11                    CAPACITOR, European symbol                        
+6   0.1u                C-EUC0805           C0805           C1, C2, C5, C6, C7, C8 CAPACITOR, European symbol                        
+4   100K AUDIO          9MM_SNAP-IN_POT_    9MM_SNAP-IN_POT VR1, VR2, VR3, VR4     9mm vertical snap-in pot, Alpha / Panasonic style 
+1   100K LINEAR         9MM_SNAP-IN_POT_    9MM_SNAP-IN_POT VR5                    9mm vertical snap-in pot, Alpha / Panasonic style 
+4   1k                  R-EU_R0805          R0805           R5, R6, R7, R8         RESISTOR, European symbol                         
+1   1u                  C-EUC0805           C0805           C4                     CAPACITOR, European symbol                        
+1   2.2u                C-EUC0805           C0805           C3                     CAPACITOR, European symbol                        
+4   220                 R-EU_R0805          R0805           R9, R10, R11, R12      RESISTOR, European symbol                         
+1   40106D              40106D              SO14            IC1-40106              Hex SCHMITT TRIGGER                               
+1   4070D               4070D               SO14            IC2-4070               Quad 2-input XOR                                  
+1   50k                 9MM_SNAP-IN_POT_    9MM_SNAP-IN_POT STARVE                 9mm vertical snap-in pot, Alpha / Panasonic style 
+1   78L05Z              78L05Z              TO92            IC1                    Positive VOLTAGE REGULATOR                        
+1   AUDIO-JACKERTHENVAR AUDIO-JACKERTHENVAR ERTHENVAR-JACK  U$4                    Switching Mono 3.5mm Audio Jack from Erthenvar.   
+1   POWER_SIMPLE10      POWER_SIMPLE10      POWER_10        U$1                                                                      
